@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Illinois Chicago, 2025 (expected)
+* M.S. in Computer Science, Brown University, 2020
+* B.S. in Computer Science, B.S. in Mathematics, Minor in Physics, Pennsylvania State University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Summer 2023: Applied Scientist Internship
+  * Amazon
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2022: Applied Scientist Internship
+  * Amazon
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Machine Learning Engineer Intership
+  * Accenture AI Lab
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
@@ -47,18 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
