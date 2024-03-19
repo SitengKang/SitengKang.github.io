@@ -19,27 +19,43 @@ Work experience
 ======
 * Summer 2023: Applied Scientist Internship
   * Amazon
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: 
 
 * Summer 2022: Applied Scientist Internship
   * Amazon
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
 
 * Summer 2018: Machine Learning Engineer Intership
   * Accenture AI Lab
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+  * Duties included: 
+
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Poisoning Attack on Reinforcement Learning
+  * University of Illinois Chicago
+  * Description: 
+  * Supervisor: Prof. Xinhua Zhang
+
+* Poisoning Attack on Generative Model
+  * University of Illinois Chicago
+  * Description: 
+  * Supervisor: Prof. Xinhua Zhang
+
+* Recommendation System
+  * Brown University
+  * Description: 
+  * Supervisor: Prof. Eli Upfal
+    
+* Pattern Recognition
+  * Pennsylvania State University
+  * Description: 
+  * Supervisor: Prof. James Wang
+
+* Cryptography
+  * Purrdue University
+  * Description: 
+  * Supervisor: Prof. Jeremiah Blocki
+    
 
 Publications
 ======
