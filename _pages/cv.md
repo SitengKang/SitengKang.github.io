@@ -18,7 +18,8 @@ Education
 Work experience
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
-
+  * 
+  
 * Summer 2022: Applied Scientist Internship @ Amazon
   * Built Sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community
     * Implemented an end-to-end data loading pipeline for industrial-scale data using Spark-SQL and Python.
@@ -32,35 +33,36 @@ Work experience
 Research experience
 ======
 * Poisoning Attack on Reinforcement Learning @ University of Illinois Chicago
-  * Supervised by Prof. Xinhua Zhang
   * Introduced a novel data poisoning attack method in offline-to-online reinforcement learning, revealing its vulnerabilities.
-  * Leveraged bi-level optimization techniques to promote distribution shift, causing a significant performance drop during online fine-tuning while maintaining integrity during offline training.
-  * Confirmed effectiveness across four environments, highlighting its ability to operate with minimal budget and without requiring white-box access to the victim model.
-  * 
+    * Leveraged bi-level optimization techniques to promote distribution shift, causing a significant performance drop during online fine-tuning while maintaining integrity during offline training.
+    * Confirmed effectiveness across four environments, highlighting its ability to operate with minimal budget and without requiring white-box access to the victim model.
+  * Supervised by Prof. Xinhua Zhang
+  * Currently under review.
 
 * Poisoning Attack on Generative Model @ University of Illinois Chicago
-  * Supervised by Prof. Xinhua Zhang
   * Proposed a poisoning attack on generative models in the context of replay based continual learning such as DGR.
-  * Poison attacked the DGR model through input-aware backdoor attack, promoting catastrophic forgetting on the victim model, trained on permutated MNIST, EMNIST, and CIFAR-10 dataset.
-  * Proved the attack to be escapable from Neural Cleanse, the SOTA in defending backdoor attacks.
+    * Poison attacked the DGR model through input-aware backdoor attack, promoting catastrophic forgetting on the victim model, trained on permutated MNIST, EMNIST, and CIFAR-10 dataset.
+    * Proved the attack to be escapable from Neural Cleanse, the SOTA in defending backdoor attacks.
+  * Supervised by Prof. Xinhua Zhang
   * Results published in ICML(2023)
 
 * Recommendation System @ Brown University
-  * Supervised by Prof. Eli Upfal
   * Proposed an innovative solution to the cold-start problem by leveraging side information such as user's age, gender, address, etc
-  * Theoretically validated the empirical bounds of Cartesian Rademacher complexity on nuclear norm constrained models by reformulating the empirical risk minimization (ERM) for bivariate regression into a linear combination of quadratic and linear terms.
-  * Designed and implemented the experiment using bivariate regression model.
+    * Theoretically validated the empirical bounds of Cartesian Rademacher complexity on nuclear norm constrained models by reformulating the empirical risk minimization (ERM) for bivariate regression into a linear combination of quadratic and linear terms.
+    * Designed and implemented the experiment using bivariate regression model.
+  * Supervised by Prof. Eli Upfal
 
     
 * Pattern Recognition @ Pennsylvania State University
+  * Predicting extreme weather from radar images.
+    * Extract skeleton information from radar images in the NOAA dataset.
+    * Utilized OpenCV to identify bow echoes from skeleton information.
+    * Designed a time series model for predicting severe weather conditions using the bow-echo information.
   * Supervised by Prof. James Wang
-  * Extract skeleton information from radar images in the NOAA dataset.
-  * Utilized OpenCV to identify bow echoes from skeleton information.
-  * Designed a time series model for predicting severe weather conditions using the bow-echo information.
 
 * Cryptography @ Purrdue University
-  * Supervised by Prof. Jeremiah Blocki
   * Analyzed the robustness of algorithms against parallel attacks by computing the space-time complexity of Argon2iA, Argon2iB, and greedy attacks.
+  * Supervised by Prof. Jeremiah Blocki
   * Results published in CRYPTO(2019)
 
 Publications
