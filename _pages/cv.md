@@ -18,14 +18,10 @@ Education
 Work experience
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
-  * Built sequential models to predict free trial conversion rate on Amazon’s digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
+  * Built models to predict free trial conversion rate on Amazon’s digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
   
 * Summer 2022: Applied Scientist Internship @ Amazon
   * Built sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community.
-    * Implemented an end-to-end data loading pipeline for industrial-scale data using Spark-SQL and Python.
-    * Developed sequential models using PyTorch, which encompassed RNN, LSTM, and bi-directional LSTM architectures.
-    * Identified additional bad-actor accounts that had not been observed by the existing production models.
-    * Reduced the number of events required for identification by more than half through the sequential models.
 
 * Summer 2018: Machine Learning Engineer Intership @ Accenture AI Lab
   * Developed an attention-based OCR model using TensorFlow that recognizes text and numbers from receipts, facilitating the determination of reimbursement for employees.
