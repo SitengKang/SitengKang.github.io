@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "您吃了吗？"
+title: "Aloha"
 author_profile: true
 redirect_from: 
   - /about/
