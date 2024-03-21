@@ -17,45 +17,47 @@ Education
 
 Work experience
 ======
-* Summer 2023: Applied Scientist Internship
-  * Amazon
+* Summer 2023: Applied Scientist Internship @ Amazon
   * Duties includes: 
 
-* Summer 2022: Applied Scientist Internship
-  * Amazon
-  * Duties included: 
+* Summer 2022: Applied Scientist Internship @ Amazon
+  * Built Sequential event models to identify bad-actor account based on their activities at Amazon, which prevented abusive contents from entering the community.
+    * Implemented end-to-end data loading pipeline for industrial scale data with Spark-SQL and Python.
+    * Built sequential models with Pytorch, including RNN, LSTM, and bi-directional LSTM.
+    * Identified additional bad-actor accounts that were unobserved by the existing production models.
+    * Reduced more than half of the number of events required for identification through the sequential models.
 
-* Summer 2018: Machine Learning Engineer Intership
-  * Accenture AI Lab
-  * Duties included: 
+* Summer 2018: Machine Learning Engineer Intership @ Accenture AI Lab
+  * Built an internal computer vision tool recognizing text and numbers from receipts to determine reimbursement for employees.
+  * Implemented attention-based OCR mdoel using TensorFlow, trained with CTW dataset.
 
 Research experience
 ======
 * Poisoning Attack on Reinforcement Learning
   * University of Illinois Chicago
-  * Description: 
   * Supervisor: Prof. Xinhua Zhang
+  * Description: 
 
 * Poisoning Attack on Generative Model
   * University of Illinois Chicago
-  * Description: 
   * Supervisor: Prof. Xinhua Zhang
+  * Description: 
 
 * Recommendation System
   * Brown University
-  * Description: 
   * Supervisor: Prof. Eli Upfal
+  * Description: 
+
     
 * Pattern Recognition
   * Pennsylvania State University
-  * Description: 
   * Supervisor: Prof. James Wang
+  * Description: 
 
 * Cryptography
   * Purrdue University
-  * Description: 
   * Supervisor: Prof. Jeremiah Blocki
-    
+  * Description: 
 
 Publications
 ======
