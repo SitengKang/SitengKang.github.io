@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "你好"
+title: "您吃了吗？"
 author_profile: true
 redirect_from: 
   - /about/
