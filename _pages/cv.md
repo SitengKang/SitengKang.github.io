@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Illinois Chicago, 2025 (expected)
-* M.S. in Computer Science, Brown University, 2020
-* B.S. in Computer Science, B.S. in Mathematics, Minor in Physics, Pennsylvania State University, 2018
+* Ph.D in Computer Science, University of Illinois Chicago, 2020-2025 (expected)
+* M.S. in Computer Science, Brown University, 2018-2020
+* B.S. in Computer Science, B.S. in Mathematics, Minor in Physics, Pennsylvania State University, 2014-2018
 
 Work experience
 ======
