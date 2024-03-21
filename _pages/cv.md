@@ -21,7 +21,7 @@ Work experience
   * Built sequential models to predict free trial conversion rate on Amazon’s digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
   
 * Summer 2022: Applied Scientist Internship @ Amazon
-  * Built Sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community.
+  * Built sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community.
     * Implemented an end-to-end data loading pipeline for industrial-scale data using Spark-SQL and Python.
     * Developed sequential models using PyTorch, which encompassed RNN, LSTM, and bi-directional LSTM architectures.
     * Identified additional bad-actor accounts that had not been observed by the existing production models.
