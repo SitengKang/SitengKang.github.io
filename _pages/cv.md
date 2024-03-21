@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
-  * 
+  * Built sequential models to predict free trial conversion rate on Amazon’s digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
   
 * Summer 2022: Applied Scientist Internship @ Amazon
   * Built Sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community
