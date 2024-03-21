@@ -18,46 +18,50 @@ Education
 Work experience
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
-  * Duties includes: 
 
 * Summer 2022: Applied Scientist Internship @ Amazon
-  * Built Sequential event models to identify bad-actor account based on their activities at Amazon, which prevented abusive contents from entering the community.
-    * Implemented end-to-end data loading pipeline for industrial scale data with Spark-SQL and Python.
-    * Built sequential models with Pytorch, including RNN, LSTM, and bi-directional LSTM.
-    * Identified additional bad-actor accounts that were unobserved by the existing production models.
-    * Reduced more than half of the number of events required for identification through the sequential models.
+  * Built Sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community
+    * Implemented an end-to-end data loading pipeline for industrial-scale data using Spark-SQL and Python.
+    * Developed sequential models using PyTorch, which encompassed RNN, LSTM, and bi-directional LSTM architectures.
+    * Identified additional bad-actor accounts that had not been observed by the existing production models
+    * Reduced the number of events required for identification by more than half through the sequential models
 
 * Summer 2018: Machine Learning Engineer Intership @ Accenture AI Lab
-  * Built an internal computer vision tool recognizing text and numbers from receipts to determine reimbursement for employees.
-  * Implemented attention-based OCR mdoel using TensorFlow, trained with CTW dataset.
-
+  * Developed an attention-based OCR model using TensorFlow that recognizes text and numbers from receipts, facilitating the determination of reimbursement for employees.
+    
 Research experience
 ======
-* Poisoning Attack on Reinforcement Learning
-  * University of Illinois Chicago
+* Poisoning Attack on Reinforcement Learning @ University of Illinois Chicago
   * Supervisor: Prof. Xinhua Zhang
-  * Description: 
+  * Introduced a novel data poisoning attack method in offline-to-online reinforcement learning, revealing its vulnerabilities.
+  * Leveraged bi-level optimization techniques to promote distribution shift, causing a significant performance drop during online fine-tuning while maintaining integrity during offline training.
+  * Confirmed effectiveness across four environments, highlighting its ability to operate with minimal budget and without requiring white-box access to the victim model.
+  * Result submitted to UAI(2024)
 
-* Poisoning Attack on Generative Model
-  * University of Illinois Chicago
+* Poisoning Attack on Generative Model @ University of Illinois Chicago
   * Supervisor: Prof. Xinhua Zhang
-  * Description: 
+  * Proposed a poisoning attack on generative models in the context of replay based continual learning such as DGR.
+  * Poison attacked the DGR model through input-aware backdoor attack, promoting catastrophic forgetting on the victim model, trained on permutated MNIST, EMNIST, and CIFAR-10 dataset.
+  * Proved the attack to be escapable from Neural Cleanse, the SOTA in defending backdoor attacks.
+  * Results published in ICML(2023)
 
-* Recommendation System
-  * Brown University
+* Recommendation System @ Brown University
   * Supervisor: Prof. Eli Upfal
-  * Description: 
+  * Proposed an innovative solution to the cold-start problem by leveraging side information such as user's age, gender, address, etc
+  * Theoretically validated the empirical bounds of Cartesian Rademacher complexity on nuclear norm constrained models by reformulating the empirical risk minimization (ERM) for bivariate regression into a linear combination of quadratic and linear terms.
+  * Designed and implemented the experiment using bivariate regression model.
 
     
-* Pattern Recognition
-  * Pennsylvania State University
+* Pattern Recognition @ Pennsylvania State University
   * Supervisor: Prof. James Wang
-  * Description: 
+  * Extract skeleton information from radar images in the NOAA dataset.
+  * Utilized OpenCV to identify bow echoes from skeleton information.
+  * Designed a time series model for predicting severe weather conditions using the bow-echo information.
 
-* Cryptography
-  * Purrdue University
-  * Supervisor: Prof. Jeremiah Blocki
-  * Description: 
+* Cryptography @ Purrdue University
+  * Supervised by Prof. Jeremiah Blocki
+  * Analyzed the robustness of algorithms against parallel attacks by computing the space-time complexity of Argon2iA, Argon2iB, and greedy attacks.
+  * Results published in CRYPTO(2019)
 
 Publications
 ======
