@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Science, Brown University, 2018-2020
 * B.S. in Computer Science, B.S. in Mathematics, Minor in Physics, Pennsylvania State University, 2014-2018
 
-Work experience
+Work experiences
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
   * Built models to predict free-trial to subscription conversion rate on Amazon digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
@@ -26,7 +26,7 @@ Work experience
 * Summer 2018: Machine Learning Engineer Intership @ Accenture AI Lab
   * Developed an attention-based OCR model using TensorFlow that recognizes text and numbers from receipts, facilitating the determination of reimbursement for employees.
     
-Research experience
+Research experiences
 ======
 * Poisoning Attack on Reinforcement Learning @ University of Illinois Chicago
   * Introduced a novel data poisoning attack on offline-to-online reinforcement learning, revealing its vulnerabilities. 
