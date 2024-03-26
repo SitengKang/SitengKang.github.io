@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2023: Applied Scientist Internship @ Amazon
-  * Built models to predict free trial conversion rate on Amazon’s digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
+  * Built models to predict free-trial to subscription conversion rate on Amazon digital products including Music Unlimited, Prime, Kindle Unlimited, Video Channels, and Audible.
   
 * Summer 2022: Applied Scientist Internship @ Amazon
   * Built sequential event models to identify bad-actor account based on their activities at Amazon, thereby preventing abusive content from entering the community.
@@ -29,23 +29,23 @@ Work experience
 Research experience
 ======
 * Poisoning Attack on Reinforcement Learning @ University of Illinois Chicago
-  * Introduced a novel data poisoning attack method in offline-to-online reinforcement learning, revealing its vulnerabilities.
-    * Leveraged bi-level optimization techniques to promote distribution shift, causing a significant performance drop during online fine-tuning while maintaining integrity during offline training.
-    * Confirmed effectiveness across four environments, highlighting its ability to operate with minimal budget and without requiring white-box access to the victim model.
+  * Introduced a novel data poisoning attack on offline-to-online reinforcement learning, revealing its vulnerabilities. 
+    * Promoted distribution shift by leveraging bi-level optimization techniques, resulting in more than 20% return drop during online fine-tuning while maintaining integrity during offline training.
+    * Validated the effectiveness of the attack across four environments, highlighting its ability to operate with minimal budget without white-box access to the victim model.
   * Supervised by Prof. Xinhua Zhang.
   * Currently under review.
 
 * Poisoning Attack on Generative Model @ University of Illinois Chicago
-  * Proposed a poisoning attack on generative models in the context of replay based continual learning such as DGR.
-    * Poison attacked the DGR model through input-aware backdoor attack, promoting catastrophic forgetting on the victim model, trained on permutated MNIST, EMNIST, and CIFAR-10 dataset.
+  * Introduced a poisoning attack on generative models in the context of replay based continual learning such as DGR.
+    * Poison attacked the DGR model through input-aware backdoor attack; promoted catastrophic forgetting on the victim model, leading to an accuracy drop on past tasks to below 10%.
     * Proved the attack to be escapable from Neural Cleanse, the SOTA in defending backdoor attacks.
   * Supervised by Prof. Xinhua Zhang.
-  * Results published in ICML(2023).
+  * Published in ICML(2023).
 
 * Recommendation System @ Brown University
-  * Proposed an innovative solution to the cold-start problem by leveraging side information such as user's age, gender, address, etc.
+  * Introduced an innovative solution to the cold-start problem by leveraging side information such as age, gender, etc.
     * Theoretically validated the empirical bounds of Cartesian Rademacher complexity on nuclear norm constrained models by reformulating the empirical risk minimization (ERM) for bivariate regression into a linear combination of quadratic and linear terms.
-    * Designed and implemented the experiment using bivariate regression model.
+    * Designed the experiment using bivariate regression model.
   * Supervised by Prof. Eli Upfal.
 
     
