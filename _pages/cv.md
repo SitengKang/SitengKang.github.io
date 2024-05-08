@@ -33,7 +33,7 @@ Research experiences
     * Promoted distribution shift by leveraging bi-level optimization techniques, resulting in more than 20% return drop during online fine-tuning while maintaining integrity during offline training.
     * Validated the effectiveness of the attack across four environments, highlighting its ability to operate with minimal budget without white-box access to the victim model.
   * Supervised by Prof. Xinhua Zhang.
-  * Currently under review.
+  * Accepted by UAI(2024).
 
 * Poisoning Attack on Generative Model @ University of Illinois Chicago
   * Introduced a poisoning attack on generative models in the context of replay based continual learning such as DGR.
