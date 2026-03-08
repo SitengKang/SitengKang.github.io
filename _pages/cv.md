@@ -72,8 +72,7 @@ Publications
 
 Services
 ======
-  <ul>{% for post in site.services reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Conference Reviewer: NeurIPS 2025, AAAI 2026, AISTATS 2026
+* Teaching Assistant: Machine Learning; Data Structures, University of Illinois Chicago
   
 
