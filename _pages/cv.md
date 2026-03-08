@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-A brief version of my CV is available [here](/files/Siteng_Kang_Web_Resume.pdf) (updated March 2026). Please contact me for the full version.
+An abridged version of my CV is available [here](/files/Siteng_Kang_Web_Resume.pdf) (updated March 2026). Please contact me for the full version.
