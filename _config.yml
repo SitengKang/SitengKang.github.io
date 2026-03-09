@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Applied Scientist @ Amazon Alexa"
   location         : "Seattle, WA"
-  employer         : "Amazon, Alexa"
+  # employer         : "Amazon, Alexa"
   uri              : # URL
   email            : "skang98@uic.edu" 
 
