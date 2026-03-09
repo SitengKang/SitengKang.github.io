@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+## Accepted
 
 ### Offline Reward Perturbation Boosts Distributional Shift in Online RL
 **40th Conference on Uncertainty in Artificial Intelligence (UAI), 2024**
